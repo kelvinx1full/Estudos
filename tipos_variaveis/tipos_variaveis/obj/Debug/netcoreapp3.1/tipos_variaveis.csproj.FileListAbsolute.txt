@@ -1,0 +1,13 @@
+C:\Users\kelvi\Desktop\C# CODES\Estudos\tipos_variaveis\tipos_variaveis\obj\Debug\netcoreapp3.1\tipos_variaveis.csprojAssemblyReference.cache
+C:\Users\kelvi\Desktop\C# CODES\Estudos\tipos_variaveis\tipos_variaveis\obj\Debug\netcoreapp3.1\tipos_variaveis.AssemblyInfoInputs.cache
+C:\Users\kelvi\Desktop\C# CODES\Estudos\tipos_variaveis\tipos_variaveis\obj\Debug\netcoreapp3.1\tipos_variaveis.AssemblyInfo.cs
+C:\Users\kelvi\Desktop\C# CODES\Estudos\tipos_variaveis\tipos_variaveis\obj\Debug\netcoreapp3.1\tipos_variaveis.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\Desktop\C# CODES\Estudos\tipos_variaveis\tipos_variaveis\bin\Debug\netcoreapp3.1\tipos_variaveis.exe
+C:\Users\kelvi\Desktop\C# CODES\Estudos\tipos_variaveis\tipos_variaveis\bin\Debug\netcoreapp3.1\tipos_variaveis.deps.json
+C:\Users\kelvi\Desktop\C# CODES\Estudos\tipos_variaveis\tipos_variaveis\bin\Debug\netcoreapp3.1\tipos_variaveis.runtimeconfig.json
+C:\Users\kelvi\Desktop\C# CODES\Estudos\tipos_variaveis\tipos_variaveis\bin\Debug\netcoreapp3.1\tipos_variaveis.runtimeconfig.dev.json
+C:\Users\kelvi\Desktop\C# CODES\Estudos\tipos_variaveis\tipos_variaveis\bin\Debug\netcoreapp3.1\tipos_variaveis.dll
+C:\Users\kelvi\Desktop\C# CODES\Estudos\tipos_variaveis\tipos_variaveis\bin\Debug\netcoreapp3.1\tipos_variaveis.pdb
+C:\Users\kelvi\Desktop\C# CODES\Estudos\tipos_variaveis\tipos_variaveis\obj\Debug\netcoreapp3.1\tipos_variaveis.dll
+C:\Users\kelvi\Desktop\C# CODES\Estudos\tipos_variaveis\tipos_variaveis\obj\Debug\netcoreapp3.1\tipos_variaveis.pdb
+C:\Users\kelvi\Desktop\C# CODES\Estudos\tipos_variaveis\tipos_variaveis\obj\Debug\netcoreapp3.1\tipos_variaveis.genruntimeconfig.cache
